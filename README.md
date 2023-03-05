@@ -3,9 +3,7 @@
 
 ![License](https://img.shields.io/github/license/wong2/chatgpt-google-extension)
 
-### Notice (2023-03-05)
-
-Adding gpt-3.5-turbo support (A.K.A. ChatGPT API)
+### This fork adds gpt-3.5-turbo support (A.K.A. ChatGPT API)
 
 ---
 
