@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "ChatGPT for Google"
+    "message": "search-gpt-3.5-turbo"
   },
   "appDesc": {
     "message": "A ChatGPT válasz megjelenítése a keresőmotor eredményei mellett"
