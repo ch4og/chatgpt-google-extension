@@ -49,6 +49,6 @@ Enable "Allow access to search page results" in the extension management page
 ## Build from source
 
 1. Clone the repo
-2. Install dependencies with `npm`
+2. Install dependencies with `npm i`
 3. `npm run build`
 4. Load `build/chromium/` or `build/firefox/` directory to your browser
