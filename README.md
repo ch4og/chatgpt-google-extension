@@ -1,9 +1,9 @@
-# ChatGPT for Google
+# gpt-3.5-turbo for search engines
 
 
 ![License](https://img.shields.io/github/license/wong2/chatgpt-google-extension)
 
-### This fork adds gpt-3.5-turbo support (A.K.A. ChatGPT API)
+### This fork of [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension) adds gpt-3.5-turbo support (A.K.A. ChatGPT API)
 
 ---
 
