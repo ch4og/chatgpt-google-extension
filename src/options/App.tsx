@@ -57,11 +57,11 @@ function OptionsPage(props: { theme: Theme; onThemeChange: (theme: Theme) => voi
       <nav className="flex flex-row justify-between items-center mt-5 px-2">
         <div className="flex flex-row items-center gap-2">
           <img src={logo} className="w-10 h-10 rounded-lg" />
-          <span className="font-semibold">ChatGPT for Google (v{getExtensionVersion()}) with ChatGPT-3.5-turbo</span>
+          <span className="font-semibold">ChaGPT-3.5-turbo for Google</span>
         </div>
         <div className="flex flex-row gap-3">
           <a
-            href="https://github.com/ch4og/chat-gpt-google-extension"
+            href="https://github.com/ch4og/chatgpt-3.5-turbo-google"
             target="_blank"
             rel="noreferrer"
           >
