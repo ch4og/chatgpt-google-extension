@@ -57,24 +57,11 @@ function OptionsPage(props: { theme: Theme; onThemeChange: (theme: Theme) => voi
       <nav className="flex flex-row justify-between items-center mt-5 px-2">
         <div className="flex flex-row items-center gap-2">
           <img src={logo} className="w-10 h-10 rounded-lg" />
-          <span className="font-semibold">ChatGPT for Google (v{getExtensionVersion()})</span>
+          <span className="font-semibold">ChatGPT for Google (v{getExtensionVersion()}) with ChatGPT-3.5-turbo</span>
         </div>
         <div className="flex flex-row gap-3">
-          <a href="https://chatgpt-for-google.canny.io/changelog" target="_blank" rel="noreferrer">
-            Changelog
-          </a>
           <a
-            href="https://github.com/wong2/chat-gpt-google-extension/issues"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Feedback
-          </a>
-          <a href="https://twitter.com/chatgpt4google" target="_blank" rel="noreferrer">
-            Twitter
-          </a>
-          <a
-            href="https://github.com/wong2/chat-gpt-google-extension"
+            href="https://github.com/ch4og/chat-gpt-google-extension"
             target="_blank"
             rel="noreferrer"
           >
