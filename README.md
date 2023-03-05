@@ -3,19 +3,19 @@
 
 ![License](https://img.shields.io/github/license/wong2/chatgpt-google-extension)
 
-### This fork of [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension) adds gpt-3.5-turbo support (A.K.A. ChatGPT API)
-
----
-
-A browser extension to display ChatGPT response alongside Google (and other search engines) results
-
-## Supported Search Engines
-
-Google, Baidu, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx
-
-## Screenshot
-
+### A browser extension to display ChatGPT response alongside Google, Baidu, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx results
 ![Screenshot](screenshots/extension.png?raw=true)
+#### This fork of [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension) adds gpt-3.5-turbo support (A.K.A. ChatGPT API)
+
+
+## Install
+
+1. Clone the repo
+2. Install dependencies with `npm i`
+3. `npm run build`
+4. Load `build/chromium/` or `build/firefox/` directory to your browser
+
+
 
 ## Features
 
@@ -44,9 +44,4 @@ Disable "Prevent sites from fingerprinting me based on my language preferences" 
 
 Enable "Allow access to search page results" in the extension management page
 
-## Build from source
 
-1. Clone the repo
-2. Install dependencies with `npm i`
-3. `npm run build`
-4. Load `build/chromium/` or `build/firefox/` directory to your browser
