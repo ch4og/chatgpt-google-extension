@@ -15,7 +15,7 @@ import { detectSystemColorScheme, getExtensionVersion } from '../utils'
 import ProviderSelect from './ProviderSelect'
 
 function OptionsPage(props: { theme: Theme; onThemeChange: (theme: Theme) => void }) {
-  const [triggerMode, setTriggerMode] = useState<TriggerMode>(TriggerMode.Always)
+  const [triggerMode, setTriggerMode] = useState<TriggerMode>(TriggerMode.Manually)
   const [language, setLanguage] = useState<Language>(Language.Auto)
   const { setToast } = useToasts()
 
