@@ -10,8 +10,8 @@
 
 ## Install
 
-1. Clone the repo
-2. Install dependencies with `npm i`
+1. `git clone https://github.com/ch4og/search-gpt-3.5-turbo`
+2. `npm i`
 3. `npm run build`
 4. Load `build/chromium/` or `build/firefox/` directory to your browser
 
